@@ -24,3 +24,7 @@ npm run check   # format, lint, typecheck, build (what CI runs)
 
 Read [AGENTS.md](AGENTS.md) for the platform rules: how to use the kit, links, storage, and
 what not to change.
+
+## License
+
+MIT, see [LICENSE](LICENSE). A site with written content can add a separate content license (e.g. `LICENSE-content`) and say in its README which applies to what.
